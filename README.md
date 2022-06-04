@@ -1,4 +1,2 @@
 # PhotoDayFeels
-Uygulama kullanıcının fotoğafı çekindiği an nasıl hissettiğiyle ilgili bir uygulama. Kullanıcı fotoğrafı çekinir ve text bölümüne nasıl hissettiğini yazar.
-Uygulamayı açtığınızda sizi anılar yazısı karşılar sağ üstteki butona tıklayarak çekindiğiniz yeni bir fotoğrafı yükeleyebilirsiniz.Yada anılardan birine tıklayarak o anının fotoğrafına erişebilirsiniz.
-Eğer fotoğraf seçmediyseniz henüz kaydetmenize izin vermeyecektir.
+The application is an application about how the user feels when the photo is taken. The user takes the photo and writes how he feels in the text section. When you open the application, you will be greeted by the memories text. You can upload a new photo you have taken by clicking the button at the top right. Or you can access the photo of that moment by clicking on one of the memories. If you have not selected a photo, it will not allow you to save it yet.
